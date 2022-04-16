@@ -21,9 +21,9 @@ $(function() {
         });
     });
 
-    var publishable_key = "rf_8lBGmX1MxbNjZgHmhueL";
+    var publishable_key = "rf_jD9pMch1SZbZprjBuZiE";
     var toLoad = {
-        model: "sign-language-project",
+        model: "sign-language-az8lz",
         version: 4 // <<<--- YOUR VERSION THERE
     };
 
