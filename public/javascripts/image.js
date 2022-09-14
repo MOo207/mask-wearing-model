@@ -26,7 +26,7 @@ async function submitForm(e) {
 }
 
 function sendRequest(base64) {
-    var url = "https://detect.roboflow.com/sign-language-project/4?api_key=PKTwmB23GA4ltL69QaSS";
+    var url = "https://detect.roboflow.com/mask-wearing-xjyzu/1?api_key=lYUkdi4J5QBVcvwSyjns";
     var xhr = new XMLHttpRequest();
     xhr.open("POST", url);
 

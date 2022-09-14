@@ -21,10 +21,10 @@ $(function() {
         });
     });
 
-    var publishable_key = "rf_jD9pMch1SZbZprjBuZiE";
+    var publishable_key = "rf_gKdDBQlNWblKXZWNTk4Y";
     var toLoad = {
-        model: "sign-language-az8lz",
-        version: 4 // <<<--- YOUR VERSION THERE
+        model: "mask-wearing-xjyzu",
+        version: 1 // <<<--- YOUR VERSION THERE
     };
 
     const loadModelPromise = new Promise(function(resolve, reject) {
