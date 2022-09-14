@@ -26,7 +26,8 @@ async function submitForm(e) {
 }
 
 function sendRequest(base64) {
-    var url = "https://detect.roboflow.com/mask-wearing-xjyzu/1?api_key=lYUkdi4J5QBVcvwSyjns";
+    // TODO: Change the link here to hold your data
+    var url = "https://detect.roboflow.com/model/version?api_key=your_api_key";
     var xhr = new XMLHttpRequest();
     xhr.open("POST", url);
 

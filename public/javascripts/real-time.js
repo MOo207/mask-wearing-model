@@ -20,10 +20,10 @@ $(function() {
             };
         });
     });
-
-    var publishable_key = "rf_gKdDBQlNWblKXZWNTk4Y";
+// TODO: also change here to put your own
+    var publishable_key = "your_publishable_key";
     var toLoad = {
-        model: "mask-wearing-xjyzu",
+        model: "your_model_name",
         version: 1 // <<<--- YOUR VERSION THERE
     };
 
